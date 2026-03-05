@@ -43,3 +43,12 @@ The system allows:
 - AUP Methodology
 
 ## Repository Structure
+
+README.md
+Informe_SUPERCAR_System_Analysis.pdf
+diagrams/
+
+## Author
+
+José Espinoza  
+Arquitectura de Datos Empresariales – CIBERTEC
