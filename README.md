@@ -50,7 +50,7 @@ The system allows:
 
 ## Diagram
 
-![Data Model Diagram](images/Data Model Diagram.png)
+![Data Model Diagram](Diagrams/Data_Model_Diagram.png)
 
 ## Author
 
