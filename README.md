@@ -46,7 +46,11 @@ The system allows:
 
 - README.md
 - Informe_SUPERCAR_System_Analysis.pdf
-- diagrams
+- images
+
+## Diagram
+
+![Project Structure Diagram](images/Project_Structure_Diagram.png)
 
 ## Author
 
