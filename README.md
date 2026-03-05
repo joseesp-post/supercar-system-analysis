@@ -50,7 +50,7 @@ The system allows:
 
 ## Diagram
 
-![Project Structure Diagram](images/Project_Structure_Diagram.png)
+![Data Model Diagram](images/Data Model Diagram.png)
 
 ## Author
 
