@@ -44,9 +44,9 @@ The system allows:
 
 ## Repository Structure
 
-README.md
-Informe_SUPERCAR_System_Analysis.pdf
-diagrams/
+- README.md
+- Informe_SUPERCAR_System_Analysis.pdf
+- diagrams
 
 ## Author
 
